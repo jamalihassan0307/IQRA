@@ -1,0 +1,17 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 7" clip-path="url(#clip0_596_4413)">
+<rect id="Rectangle 8" x="0.5" width="20" height="20" rx="4" fill="#A3A3A5"/>
+<g id="Group 5">
+<path id="Vector 12 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M3.5 6.75C3.5 6.33579 3.83579 6 4.25 6H8.25C8.66421 6 9 6.33579 9 6.75C9 7.16421 8.66421 7.5 8.25 7.5H4.25C3.83579 7.5 3.5 7.16421 3.5 6.75Z" fill="white"/>
+<path id="Vector 14 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M4.5 10.75C4.5 10.3358 4.83579 10 5.25 10H11.25C11.6642 10 12 10.3358 12 10.75C12 11.1642 11.6642 11.5 11.25 11.5H5.25C4.83579 11.5 4.5 11.1642 4.5 10.75Z" fill="white"/>
+<path id="Vector 15 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M4.5 13.75C4.5 13.3358 4.83579 13 5.25 13H11.25C11.6642 13 12 13.3358 12 13.75C12 14.1642 11.6642 14.5 11.25 14.5H5.25C4.83579 14.5 4.5 14.1642 4.5 13.75Z" fill="white"/>
+<path id="Vector 16 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M12.75 13.75C12.75 13.3358 13.0858 13 13.5 13L16.5 13C16.9142 13 17.25 13.3358 17.25 13.75C17.25 14.1642 16.9142 14.5 16.5 14.5H13.5C13.0858 14.5 12.75 14.1642 12.75 13.75Z" fill="white"/>
+<path id="Vector 13 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M10.5 6.75C10.5 6.33579 10.8358 6 11.25 6H16.25C16.6642 6 17 6.33579 17 6.75C17 7.16421 16.6642 7.5 16.25 7.5H11.25C10.8358 7.5 10.5 7.16421 10.5 6.75Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_596_4413">
+<rect width="20" height="20" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>
